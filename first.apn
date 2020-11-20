@@ -1,0 +1,11 @@
+{
+  "aps": {
+    "alert": {
+       	"title": "Breaking News!",
+	"subtitle" : "Free homes",
+	"body": "buy homes for free",
+	},
+	"sound": "default"
+    	},
+  	"link_url": "https://google.com"
+}
